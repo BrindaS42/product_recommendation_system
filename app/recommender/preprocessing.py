@@ -1,4 +1,3 @@
-# app/recommender/preprocessing.py
 import pandas as pd
 from typing import Tuple
 from pathlib import Path

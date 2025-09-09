@@ -1,4 +1,3 @@
-# app/recommender/demographic.py
 import pandas as pd
 import numpy as np
 

@@ -75,7 +75,7 @@ Follow these steps to set up the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone git remote add origin https://github.com/buzzz341/product_recommendation_system.git
+git clone git remote add origin https://github.com/BrindaS42/product_recommendation_system.git
 cd product_recommendation_system
 ```
 
